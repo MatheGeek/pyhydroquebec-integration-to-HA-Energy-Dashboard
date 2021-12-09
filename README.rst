@@ -15,7 +15,8 @@ Fix the consumption date : As  I use the "sensor.hydroquebec_123456789_yesterday
 Installation of pyhydroquebec
 ############
 
-Please refer to  https://github.com/titilambert/pyhydroquebec  to install it in Docker  or   to  https://github.com/arsenicks/pyhydroquebec-hass-addons  to get a Home Assistant addon
+Please refer to   https://github.com/titilambert/pyhydroquebec   
+or   to  https://github.com/arsenicks/pyhydroquebec-hass-addons  to get a Home Assistant addon
 
 
 
